@@ -31,7 +31,7 @@ export default function Contact() {
                   niangtheo@gmail.com
                 </div>
               </div>
-            </a>
+            </a> 
 
             <a
               href="https://www.linkedin.com/in/tsniang"
