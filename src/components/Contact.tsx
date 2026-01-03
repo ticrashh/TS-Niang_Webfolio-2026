@@ -61,11 +61,11 @@ export default function Contact() {
 
         <div className="mt-12 text-center">
           <p className="text-slate-400 mb-6">
-            Seeking a 4-month international internship starting May 1st, 2025
+            Seeking a 4-month international internship starting May 1st, 2026
           </p>
           <div className="inline-flex items-center gap-2 px-6 py-3 bg-gradient-to-r from-cyan-500 to-cyan-400 rounded-full text-white font-medium hover:shadow-lg hover:shadow-cyan-500/50 transition-all duration-300">
             <Calendar size={20} />
-            <span>Available from May 2025</span>
+            <span>Available from May 2026</span>
           </div>
         </div>
       </div>

@@ -27,7 +27,7 @@ export default function Hero() {
 
           <p className="text-lg text-slate-400 mb-12 leading-relaxed max-w-2xl border-l-4 border-cyan-500/30 pl-6">
             Currently seeking a <span className="text-white font-semibold">4-month international internship</span> starting 
-            <span className="text-cyan-400"> May 1st, 2025</span> in Data Science or Maritime Technology.
+            <span className="text-cyan-400"> May 1st, 2026</span> in Data Science or Maritime Technology.
           </p>
 
           <div className="flex flex-col sm:flex-row items-start sm:items-center gap-8">
